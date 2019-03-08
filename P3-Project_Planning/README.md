@@ -1,20 +1,21 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
 
 ### Wireframes
 [Groupling Project Wireframe](https://app.moqups.com/j5lZ6V1CgD/view?ui=0)
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* Groupling Page 1
+  ![Groupling Page 1](/P3-Project_Planning/Groupling1.png)
+* Groupling Page 2
+  ![Groupling Page 2.1](/P3-Project_Planning/Groupling2.png)
+  ![Groupling Page 2.2](/P3-Project_Planning/Groupling3.png)
+* Groupling Page 3
+  ![Groupling Page 3.1](/P3-Project_Planning/Groupling4.png)
+  ![Groupling Page 3.2](/P3-Project_Planning/Groupling5.png)
+  ![Groupling Page 3.3](/P3-Project_Planning/Groupling6.png)
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Trello Project Tracker](https://trello.com/b/Dq5Nt6Xq/groupling)
 
 ### Project Repo Link
+[GitHub Repository](https://github.com/lizwait/Groupling)
 
-(Include a link to your project on GitHub)
